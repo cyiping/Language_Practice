@@ -1,6 +1,6 @@
 # **村上琢太**(タクタ)さんのストーリーを使って、簡単なN4レベルの日本語単語で例文を作る機能を実現しましょう。
 
-![Alt Text](/files/Takuta.jpg)
+![Takuta Image](Takuta.jpg)
 
 From Takuta :
 息子（台湾の大学でAIを中心にCS勉強中）と電話で話したら、勉強方法が22世紀だった。
