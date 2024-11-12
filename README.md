@@ -12,3 +12,4 @@ From Takuta :
 勉強方法が（いい意味で）ハッカー。
 
 Ref : https://x.com/Takuta/status/1855097914953257173
+      https://www.facebook.com/share/fRpLg63f23QsTN5L/
